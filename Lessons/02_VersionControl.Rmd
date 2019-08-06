@@ -129,4 +129,5 @@ Note: these steps will update your local repository, but will not update your re
 
 Sometimes, files in your local and remote repositories will have changes that are different. In this case, you will need to merge the files together in a way that incorporates the changes in a manner that you choose (merge). We will not be working directly with merge in this course, but RStudio has a nice interface that will guide you through the process of merging if it arises in the future.
 
-
+##Comment Added to test Push
+## Second Comment added from laptop
